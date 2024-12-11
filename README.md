@@ -13,4 +13,6 @@
    <li><strong>JavaScript</strong> : Configurado para garantir fluidez e interatividade no site, melhorando a experiência do usuário.</li>
   </ul>
 
- <a href="http://127.0.0.1:5500/assets/html/index.html"> Acessar Site</a>
+ img src="https://github.com/user-attachments/assets/1abccbbd-5f95-4049-a8c7-dc48f0593eb7"
+ ![site responsivo](https://github.com/user-attachments/assets/1abccbbd-5f95-4049-a8c7-dc48f0593eb7)
+
